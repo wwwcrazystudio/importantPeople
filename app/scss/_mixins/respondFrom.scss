@@ -1,0 +1,10 @@
+@mixin respondFrom($media) {
+  @media only screen and (min-width: $media) {
+    @content;
+  }
+}
+
+@function em($size, $base:16px) {
+  $remSize: $size / $base;
+  @return $remSize * 1em;
+}

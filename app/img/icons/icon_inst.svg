@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_inst</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.720926339">
+        <g id="Desktop_o-kopanii_1" transform="translate(-154.000000, -819.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="соцсети" transform="translate(86.000000, 819.000000)">
+                <g id="icon_inst" transform="translate(68.000000, 0.000000)">
+                    <path d="M12.3,0 L4.7,0 C2.1,0 0,2.1 0,4.7 L0,12.3 C0,14.9 2.1,17 4.7,17 L12.3,17 C14.9,17 17,14.9 17,12.3 L17,4.7 C17,2.1 14.9,0 12.3,0 Z M15.5,12.3 C15.5,14.1 14.1,15.5 12.3,15.5 L4.7,15.5 C2.9,15.5 1.5,14.1 1.5,12.3 L1.5,4.7 C1.5,2.9 2.9,1.5 4.7,1.5 L12.3,1.5 C14.1,1.5 15.5,2.9 15.5,4.7 L15.5,12.3 Z" id="Shape"></path>
+                    <path d="M8.5,4.1 C6.1,4.1 4.1,6.1 4.1,8.5 C4.1,10.9 6.1,12.9 8.5,12.9 C10.9,12.9 12.9,10.9 12.9,8.5 C12.9,6.1 10.9,4.1 8.5,4.1 Z M8.5,11.4 C6.9,11.4 5.6,10.1 5.6,8.5 C5.6,6.9 6.9,5.6 8.5,5.6 C10.1,5.6 11.4,6.9 11.4,8.5 C11.4,10.1 10.1,11.4 8.5,11.4 Z M13.1,2.8 C12.8,2.8 12.5,2.9 12.3,3.1 C12.1,3.4 12,3.7 12,3.9 C12,4.2 12.1,4.5 12.3,4.7 C12.5,4.9 12.8,5 13.1,5 C13.4,5 13.7,4.9 13.9,4.7 C14.1,4.5 14.2,4.2 14.2,3.9 C14.2,3.6 14.1,3.3 13.9,3.1 C13.6,3 13.4,2.8 13.1,2.8 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

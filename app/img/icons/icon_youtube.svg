@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_youtube</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.720926339">
+        <g id="Desktop_o-kopanii_1" transform="translate(-196.000000, -819.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="соцсети" transform="translate(86.000000, 819.000000)">
+                <g id="icon_youtube" transform="translate(110.000000, 0.000000)">
+                    <path d="M8,12.5 L8,3.5 L14,8 L8,12.5 Z M18,0.4 C17.4,0.2 13.7,3.33066907e-16 10,3.33066907e-16 C6.3,3.33066907e-16 2.6,0.2 2,0.4 C0.4,0.9 0,4.4 0,8 C0,11.6 0.4,15.1 2,15.6 C2.6,15.8 6.3,16 10,16 C13.7,16 17.4,15.8 18,15.6 C19.6,15.1 20,11.6 20,8 C20,4.4 19.6,0.9 18,0.4 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="133px" height="44px" viewBox="0 0 133 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_app</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.558984375">
+        <g id="Desktop_o-kopanii_1" transform="translate(-81.000000, -872.000000)">
+            <g id="icon_app" transform="translate(82.000000, 873.000000)">
+                <rect id="container" stroke="#FFFFFF" x="-0.5" y="-0.5" width="132" height="43" rx="2"></rect>
+                <text id="Available-on-the" font-family="PTSans-Regular, PT Sans" font-size="10" font-weight="normal" letter-spacing="0.0599999987" fill="#FFFFFF">
+                    <tspan x="32" y="14">Available on the</tspan>
+                </text>
+                <text id="App-Store" font-family="PTSans-Regular, PT Sans" font-size="18" font-weight="normal" letter-spacing="-0.450000018" fill="#FFFFFF">
+                    <tspan x="32" y="32">App Store</tspan>
+                </text>
+                <path d="M12.1491343,7 C10.9622002,7 10,8.08543919 10,9.42961405 L10,34.570386 C10,35.9122247 10.9611358,37 12.1491343,37 L22.8508657,37 C24.0377998,37 25,35.9145608 25,34.570386 L25,9.42961405 C25,8.08777526 24.0388642,7 22.8508657,7 L12.1491343,7 L12.1491343,7 Z M11.40625,10.9344262 L11.40625,33.0655738 L23.59375,33.0655738 L23.59375,10.9344262 L11.40625,10.9344262 L11.40625,10.9344262 Z M17.5,36.0163934 C18.017767,36.0163934 18.4375,35.5760178 18.4375,35.0327869 C18.4375,34.489556 18.017767,34.0491803 17.5,34.0491803 C16.982233,34.0491803 16.5625,34.489556 16.5625,35.0327869 C16.5625,35.5760178 16.982233,36.0163934 17.5,36.0163934 L17.5,36.0163934 Z M15.625,8.96721311 C15.625,9.23882857 15.7861328,9.45901639 15.9982741,9.45901639 L19.0017259,9.45901639 C19.2078795,9.45901639 19.375,9.23088499 19.375,8.96721311 C19.375,8.69559766 19.2138672,8.47540984 19.0017259,8.47540984 L15.9982741,8.47540984 C15.7921205,8.47540984 15.625,8.70354124 15.625,8.96721311 Z" id="iPhone" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

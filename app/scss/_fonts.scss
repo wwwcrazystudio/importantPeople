@@ -1,0 +1,6 @@
+@import "_mixins/font-face";
+
+@include font-face("IntroRustG-Base2Line", "../fonts/IntroRustG-Base2Line/IntroRustG-Base2Line");
+@include font-face("PTSansBold", "../fonts/PTSansBold/PTSansBold", bold);
+@include font-face("PTSansRegular", "../fonts/PTSansRegular/PTSansRegular");
+@include font-face("LatoLight", "../fonts/LatoLight/LatoLight");
